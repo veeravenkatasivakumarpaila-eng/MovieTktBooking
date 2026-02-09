@@ -12,14 +12,23 @@ The project structure follows a typical Java web application layout with servlet
 📀 Java-based backend with webapp structure
 
 
-MovieTktBooking/
-├── MovieTicketBookingApplication/
+MovieTktBooking
+
+├ MovieTicketBookingApplication/
 │   ├── src/
+
 │   │   └── main/
+
 │   │       ├── java/
+
 │   │       └── webapp/            # Web UI pages (JSP/HTML/CSS/JS)
+
 │   ├── pom.xml (if Maven used)
+
 │   └── WEB-INF/                   # Web configuration files
+
 ├── .gitignore
+
 ├── LICENSE
+
 └── README.md
