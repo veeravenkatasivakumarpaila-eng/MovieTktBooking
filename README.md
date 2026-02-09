@@ -12,9 +12,10 @@ The project structure follows a typical Java web application layout with servlet
 📀 Java-based backend with webapp structure
 
 
-MovieTktBooking
+MovieTktBooking:
 
 ├ MovieTicketBookingApplication/
+
 │   ├── src/
 
 │   │   └── main/
