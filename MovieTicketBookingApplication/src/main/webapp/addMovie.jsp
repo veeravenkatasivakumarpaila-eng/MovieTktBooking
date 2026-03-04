@@ -15,8 +15,7 @@
         height: 100vh;
     }
 
-  
-.container {
+  .container {
         width: 520px;
         margin: 40px auto;
         background: #111;
@@ -158,3 +157,4 @@
 </body>
 
 </html>
+
