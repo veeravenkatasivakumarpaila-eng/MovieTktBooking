@@ -1,4 +1,5 @@
-This application provides the core functionality of browsing movie listings and selecting seats for booking — simulating a basic online movie ticket booking platform. The project structure follows a typical Java web application layout with servlets, JSP/HTML views, and supporting backend logic.
+This application provides the core functionality of browsing movie listings and selecting seats for booking — simulating a basic online movie ticket booking platform. 
+The project structure follows a typical Java web application layout with servlets, JSP/HTML views, and supporting backend logic.
 
 📦 Features:
 
